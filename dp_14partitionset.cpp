@@ -67,3 +67,5 @@ else
    cout<<"cannnot partition in to tw eql subset";
 return 0;
 }
+
+//i have change somethig are you able to see 
